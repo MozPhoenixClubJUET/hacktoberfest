@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prabal Asthana](https://github.com/thebeast-p)
+ - Place: Lucknow, India
+ - Bio: Graduating(B.tech with CSE)
+ - GitHub: [Prabal Asthana](https://github.com/thebeast-p)
