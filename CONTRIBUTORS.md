@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Paridhi Jain](https://github.com/paridhijain212)
+- Place: Bhopal,India
+- Bio: student
+- Github: [Paridhi Jain]https://github.com/paridhijain212)
