@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daksh Sardana](https://github.com/dakshsard)
+- Place: Lucknow, UP, India
+- Bio: Computer Science Engineer
+- GitHub: [dakshsard](https://github.com/dakshsard)
