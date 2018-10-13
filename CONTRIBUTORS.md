@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Kartik Garg] (https://github.com/Kartikgarg12)
+#### Name: [Kartik Garg](http://github.com/kartikgarg12)
 - Place: India
 - Bio: Web developer
-- Github: [Kartik Garg] https://www.facebook.com/devansh.mishra.528?sk=wall
+- Github: [Kartik Garg](http://github.com/kartikgarg12)
