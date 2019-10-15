@@ -2,6 +2,12 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [Muskan Sanghai](https://github.com/sanghaimuskan)
+- Place: Guna,India
+- Bio: first year Computer Science Student
+- GitHub: [Muskan Sanghai](https://github.com/sanghaimuskan)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
