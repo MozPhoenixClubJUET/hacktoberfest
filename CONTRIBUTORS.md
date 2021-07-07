@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [DEEPAK MEHROTRA](https://github.com/stunner2k18)
+- Place: GUNA,MADHYA PRADESH,INDIA
+- Bio: PRGRAMMER JAVA,C,C++,PYTHON
+- GitHub: [DEEPAK MEHROTRA](https://github.com/stunner2k18)
