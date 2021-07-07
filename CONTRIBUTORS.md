@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Arpit Verma](https://github.com/arpitv424)
+- Place: Guna, Madhya Pradesh, India
+- Bio: Computer Science and Engineering Student, 1st year | Coder.
+- GitHub: [arpitv424](https://github.com/arpitv424)
